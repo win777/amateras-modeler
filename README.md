@@ -1,10 +1,3 @@
-**Hello**
-<table>
-<tr><td>rowspan1</td><td rowspan="2">rowspan2</td></tr>
-<tr><td>rowspan1</td></tr>
-</table>
-*World*
-
 # Amateras Modeler
 
 Lightweight UML and ER-diagram editor for Eclipse. Former AmaterasUML and AmaterasERD.
@@ -51,15 +44,19 @@ History
 |  |  |  | Synchronization of class diagram against Java source |
 | ^ | ^ | ^ | ^ Option to turn on / off aggregation links on java import |
 
+**Hello**
 <table>
-    <thead>
+<tr><td>rowspan1</td><td rowspan="2">rowspan2</td></tr>
+<tr><td>rowspan1</td></tr>
+</table>
+*World*
+
+<table>
         <tr>
             <th>Layer 1</th>
             <th>Layer 2</th>
             <th>Layer 3</th>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td rowspan=4>L1 Name</td>
             <td rowspan=2>L2 Name A</td>
@@ -75,7 +72,6 @@ History
         <tr>
             <td>L3 Name D</td>
         </tr>
-    </tbody>
 </table>
 
 ### 2021/08/22 - AmaterasModeler 2.1.0
