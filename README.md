@@ -40,8 +40,8 @@ History
 | 2021/08/22  | AmaterasModeler  | 2.1.0 | Support zoom by CTRL + Mouse scroll |
 | 2020/10/18  | AmaterasModeler  | 2.0.0 | Java11 Support |
 | 2017/03/29  | AmaterasModeler  | 1.1.0 | Java Enum support in class diagram |
-| ^ | ^^ | ^^ | - Some icon decorators such as abstract, static and final |
-| ^ | ^^ | ^^ | - Synchronization of class diagram against Java source |
+|  | ^^ | ^^ | - Some icon decorators such as abstract, static and final |
+|  | ^^ | ^^ | - Synchronization of class diagram against Java source |
 | ^ | ^^ | ^^ | - Option to turn on / off aggregation links on java import |
 
 ### 2021/08/22 - AmaterasModeler 2.1.0
