@@ -53,7 +53,7 @@ History
 |2008/06/07|AmaterasERD |1.0.3|- PostgreSQL and Oracle support<br>- Table re-importing improved<br>- Foreign keys decoration in the diagram<br>- Default column value support<br>- Outline view<br>- New DDL generate option to generate constraints as ALTER TABLE<br>- Index designing support<br>- Domain (Generic data type definition) support<br>- HTML report improved<br>|
 |2008/02/14|AmaterasUML |1.3.1|- Auto layout in the class diagram editor.<br>- Java model importing supports aggregation.|
 |2008/02/07|AmaterasERD |1.0.2|**New actions are available at the ER diagram context menu** <br>- Save as Image and Print<br>- Export table definition as HTML<br>- Auto layout<br><br> **Table definition dialog improved** <br>- Table / Column description<br>- Auto increment column<br><br> **New extension point (net.java.amateras.db.generators)** <br>|
-|2007/10/07|AmaterasUML |1.3.0|- Eclipse 3.3 Support (This version can't work with Eclipse 3.2.x)<br>- Copy & Pase in the class diagram, the usecase diagram and the activity diagram.<br>- Brand new visual theme for diagrams.|<br>
+|2007/10/07|AmaterasUML |1.3.0|- Eclipse 3.3 Support (This version can't work with Eclipse 3.2.x)<br>- Copy & Paste in the class diagram, the usecase diagram and the activity diagram.<br>- Brand new visual theme for diagrams.|<br>
 |2007/07/19|AmaterasERD |1.0.1|- Apache Derby support<br>- Logical database design support|
 |2007/04/22|AmaterasUML |1.2.2|- Activity diagram is available.<br>- Connection routers which exclude BendpoinConnectionRouter are not supported.<br>- Bendpoint moves according to the entity dragging.<br>- Note: This version hasn't compatibility with old versions.<br>|
 |2006/12/31|AmaterasERD|1.0.0|- Initial Release|
