@@ -35,8 +35,8 @@ License
 
 History
 --------
-| **Release date**&nbsp;&nbsp;&nbsp;&nbsp;  | **Product name** | **Version** | **Update description** |
-| ------------------- | ------------- | ------------- | ------------- |
+| **Release date** | **Product name** | **Version** | **Update description** |
+| :-------------------: | :-------------: | :-------------: | ------------- |
 |2021/08/22| AmaterasModeler  | 2.1.0 | - Support zoom by CTRL + Mouse scroll |
 |2020/10/18| AmaterasModeler  | 2.0.0 | - Java11 Support |
 |2017/03/29| AmaterasModeler  | 1.1.0 | - Java Enum support in class diagram <br> - Some icon decorators such as abstract, static and final <br> - Synchronization of class diagram against Java source <br> - Option to turn on / off aggregation links on java import |
