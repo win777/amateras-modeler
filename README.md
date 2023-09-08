@@ -35,11 +35,11 @@ License
 
 History
 --------
-| **ReleaseDate**  | **Product name** | **Version** | **Update Description** |
+| **Release date**  | **Product name** | **Version** | **Update description** |
 | ------------- | ------------- | ------------- | ------------- |
-| 2021/08/22  | AmaterasModeler  | 2.1.0 | - Support zoom by CTRL + Mouse scroll |
-| 2020/10/18  | AmaterasModeler  | 2.0.0 | - Java11 Support |
-| 2017/03/29  | AmaterasModeler  | 1.1.0 | - Java Enum support in class diagram <br> - Some icon decorators such as abstract, static and final <br> - Synchronization of class diagram against Java source <br> - Option to turn on / off aggregation links on java import |
+|2021/08/22  | AmaterasModeler  | 2.1.0 | - Support zoom by CTRL + Mouse scroll |
+|2020/10/18  | AmaterasModeler  | 2.0.0 | - Java11 Support |
+|2017/03/29  | AmaterasModeler  | 1.1.0 | - Java Enum support in class diagram <br> - Some icon decorators such as abstract, static and final <br> - Synchronization of class diagram against Java source <br> - Option to turn on / off aggregation links on java import |
 |2012/07/16| AmaterasUML | 1.3.4 | - Fixed the issue on Java7. |
 |2012/06/13| AmaterasERD | 1.0.9 | - Displays unique indices on the diagram.<br>- Switching display mode (logical or physical) by CTRL+D.<br>- Improvement of PostgreSQLDialect, MySQLDialect and OracleDialect.<br>- Refreshing imported tables.<br>- The dictionary which is used for name conversion became customizable.<br>|
 |2011/08/13|AmaterasUML |1.3.3|- Improvement of constructor in the class diagram<br>- Improvement of Java generics support<br>- Quick Filter ("Show only Public" and "Show All")<br>- Refresh the class diagram from Java source<br>- Copy the diagram as image<br> |
