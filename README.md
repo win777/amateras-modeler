@@ -37,39 +37,26 @@ History
 --------
 | Release Date  | Product name | Version | Update Description |
 | ------------- | ------------- | ------------- | ------------- |
-| 2021/08/22  | AmaterasModeler  | 2.1.0 | Support zoom by CTRL + Mouse scroll |
-| 2020/10/18  | AmaterasModeler  | 2.0.0 | Java11 Support |
-| 2017/03/29  | AmaterasModeler  | 1.1.0 | # Java Enum support in class diagram <br> @ Some icon decorators such as abstract, static and final <br> - Synchronization of class diagram against Java source <br> * Option to turn on / off aggregation links on java import |
+| 2021/08/22  | AmaterasModeler  | 2.1.0 | - Support zoom by CTRL + Mouse scroll |
+| 2020/10/18  | AmaterasModeler  | 2.0.0 | - Java11 Support |
+| 2017/03/29  | AmaterasModeler  | 1.1.0 | - Java Enum support in class diagram <br> - Some icon decorators such as abstract, static and final <br> - Synchronization of class diagram against Java source <br> - Option to turn on / off aggregation links on java import |
+|2012/07/16| AmaterasUML | 1.3.4 | - Fixed the issue on Java7. |
+|2012/06/13| AmaterasERD | 1.0.9 | - Displays unique indices on the diagram.<br>- Switching display mode (logical or physical) by CTRL+D.<br>- Improvement of PostgreSQLDialect, MySQLDialect and OracleDialect.<br>- Refreshing imported tables.<br>- The dictionary which is used for name conversion became customizable.<br>|
+|2011/08/13|AmaterasUML |1.3.3|- Improvement of constructor in the class diagram<br>- Improvement of Java generics support<br>- Quick Filter ("Show only Public" and "Show All")<br>- Refresh the class diagram from Java source<br>- Copy the diagram as image<br> |
+|2011/02/12|AmaterasERD|1.0.8|- Sybase support<br>- In importing and exporting, table and column comments are mapped to logical name (Oracle and Sybase only)<br>- Copy As Image from the context menu<br>- Quick Outline ([CTRL]+[O])<br>- Diagram font configuration<br>- HTML generation tool from *.erd file which could be used in command-line<br> |
+|2010/01/03|AmaterasERD |1.0.7|- H2 Support<br>- Switching dialect after creating a diagram<br>- Improved foreign key creation behavior<br>- Improved HTML report<br>- Convert table / column name from context menu<br>- Show NOT NULL constraint in the diagram<br>- Show and snap to Grid, snap to other figure<br>- SQL Highlighting<br> |
+|2009/05/05|AmaterasERD |1.0.6|- Note is available on the diagram<br>- Additional SQL (such as inserting initial data) of each table<br>- Auto diagram reloading when the file is updated such as SVN update|
+|2009/04/19|AmaterasUML|1.3.2|- New appearance settings of class diagram / sequence diagram<br>- Auto diagram reloading when the file is updated such as SVN update<br>|
+|2008/12/10|AmaterasERD |1.0.5|- Show selected tables DDL from the context menu<br>- Table background color has been configurable<br>- Incremental search in the JDBC importing wizard<br>|
+|||||
+|||||
+|||||
+|||||
+|||||
 
-**Hello**
-<table>
-<tr><td>rowspan1</td><td rowspan="2">rowspan2</td></tr>
-<tr><td>rowspan1</td></tr>
-</table>
-*World*
 
-<table>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-</table>
+
+
 
 ### 2021/08/22 - AmaterasModeler 2.1.0
 
